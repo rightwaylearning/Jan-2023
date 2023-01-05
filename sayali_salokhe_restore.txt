@@ -1,1 +1,3 @@
 restore practical 
+1) command: git restore <file name>
+2) command: git restore --staged <file name>
